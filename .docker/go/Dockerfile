@@ -13,4 +13,6 @@ RUN go get -u github.com/cosmtrek/air
 
 RUN go mod download
 
+EXPOSE 8080
+
 CMD air -c .air.toml
