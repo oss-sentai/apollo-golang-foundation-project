@@ -1,4 +1,4 @@
-module github.com/oss-sentai/apollo-golang-foundation-project
+module apollo-golang-foundation-project
 
 go 1.15
 
